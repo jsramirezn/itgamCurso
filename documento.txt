@@ -1,0 +1,4 @@
+Este es el contenido del
+archivo .TXT abierto...
+
+Favor de agradecer al programador.
